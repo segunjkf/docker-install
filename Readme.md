@@ -30,7 +30,7 @@ A robust, automated script for installing Docker Engine and Docker Compose on Li
 
 1. Download the script:
 ```bash
-curl -O https://raw.githubusercontent.com/segunjkf/docker-install/main/install-docker.sh
+curl -O https://raw.githubusercontent.com/segunjkf/docker-install/main/docker-install.sh
 ```
 
 2. Make it executable:
